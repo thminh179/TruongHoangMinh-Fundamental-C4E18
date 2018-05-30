@@ -1,0 +1,29 @@
+1. Example of using 'break' to stop a loop:
+
+	n = 0
+	loop = True
+
+	while loop:
+	  n +=1
+	  if n == 10:
+	    break
+
+2.1. what is nested list?
+>> a nested list is a list that within another list.
+
+2.2. Can a list store both integers and strings in it? - Yes
+
+3. Example of deleting an item in a list:
+
+   store = ["T-shirt", "Sweater"]
+   del store[1]
+   print ("Our items:",*store, sep=', ') 
+
+>> Our item: Sweater
+
+   
+   
+
+
+ 
+ 
